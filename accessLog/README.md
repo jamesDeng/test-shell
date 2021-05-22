@@ -20,7 +20,7 @@ sh access.sh -f access.log -t
 
 2. Top-10 hosts requests:
 ``` bash
-sh access.sh -f access.log -q 19/May/2019:00:00:00,19/May/2019:23:59:59
+sh access.sh -f access.log -q 10/Jun/2019:00:00:00,19/Jun/2019:23:59:59
 ```
 
 3. Find out the country with most requests originating from:
