@@ -29,7 +29,7 @@ sh access.sh -f access.log -c
 ```
 4. All
 ``` bash
-sh access.sh -f access.log -t -q 19/May/2019:00:00:00,19/May/2019:23:59:59 -c
+sh access.sh -f access.log -t -q 10/Jun/2019:00:00:00,19/Jun/2019:23:59:59 -c
 ```
 
 5. There is a problem, you can refresh the index：
