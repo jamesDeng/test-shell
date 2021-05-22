@@ -17,6 +17,7 @@ IP)
 ``` bash
 sh access.sh -f access.log -t
 ```
+Note: 第一次執行需要建立索引，請等待一定時間
 
 2. Top-10 hosts requests:
 ``` bash
@@ -36,8 +37,6 @@ sh access.sh -f access.log -t -q 10/Jun/2019:00:00:00,19/Jun/2019:23:59:59 -c
 ``` bash
 sh access.sh -f access.log -i
 ```
-
-Note: 第一次執行需要建立索引，請等待一定時間
 
 ## Issue
 1. Request IP format error
