@@ -13,7 +13,7 @@ IP)
 
 ## Use
 
-1. View Total Number:
+1. Total Number:
 ``` bash
 sh access.sh -f access.log -t
 ```
